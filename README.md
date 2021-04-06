@@ -9,3 +9,10 @@ the name of the user for whom the password is being changed. This has to use 2 f
 and shadow (You may need to create these 2 files so that the
 encrypted password that is stored in the shadow file is as per the encryption/decryption
 mechanism you have chosen.
+
+## Highlights:
+* Uses Makefile
+* Client-Server model
+* ASCII encrption
+
+Please refer to Project Report for details
