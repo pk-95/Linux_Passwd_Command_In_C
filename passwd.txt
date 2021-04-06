@@ -1,0 +1,6 @@
+root:x:0:0:root:/root:/bin/bash
+Venkat:x:1:100:Venkat Raman:/home/Venkat:/bin/bash
+Beena:x:2:100:Beena Ravi:/home/Beena:/bin/bash
+Vignesh:x:3:100:Vignesh Raghu:/home/Vignesh:/bin/bash
+Rakesh:x:4:100:Rakesh Kumar:/home/Rakesh:/bin/bash
+
